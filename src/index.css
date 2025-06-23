@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme{
+  --color-headerColor: #282828;
+  --color-navColor: #F40404;
+}
